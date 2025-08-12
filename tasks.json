@@ -47,5 +47,26 @@
     "done": false,
     "priority": "high",
     "dueDate": "2025-08-11"
+  },
+  {
+    "id": 1754967374659,
+    "text": "Finish the report",
+    "done": false,
+    "priority": "medium",
+    "dueDate": null
+  },
+  {
+    "id": 1754967379240,
+    "text": "Submit assignment",
+    "done": false,
+    "priority": "high",
+    "dueDate": "2025-08-11"
+  },
+  {
+    "id": 1754967384588,
+    "text": "Schedule meeting",
+    "done": false,
+    "priority": "low",
+    "dueDate": null
   }
 ]
